@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2af341db-d22b-4ee6-bd3b-a4e0c025e7d9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/administative_panel_login_firefox_esr.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/administative_panel_login_firefox_nightly.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,12 +23,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="14" />
+          <entry key="py" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="14" />
+          <entry key="Python" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -48,10 +46,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/administative_panel_login_firefox_esr.py">
+        <entry file="file://$PROJECT_DIR$/administative_panel_login_firefox_nightly.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="60" selection-start-line="10" selection-start-column="60" selection-end-line="10" selection-end-column="60" />
+            <state relative-caret-position="357">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
@@ -81,8 +79,8 @@
         <option value="$PROJECT_DIR$/administative_panel_login_edge.py" />
         <option value="$PROJECT_DIR$/administative_panel_login_f2.py" />
         <option value="$PROJECT_DIR$/administative_panel_login_firefox.py" />
-        <option value="$PROJECT_DIR$/administative_panel_login_firefox_nightly.py" />
         <option value="$PROJECT_DIR$/administative_panel_login_firefox_esr.py" />
+        <option value="$PROJECT_DIR$/administative_panel_login_firefox_nightly.py" />
       </list>
     </option>
   </component>
@@ -127,7 +125,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.pytest in administative_panel_login_firefox_esr.py">
+  <component name="RunManager" selected="Python tests.pytest in administative_panel_login_firefox_nightly.py">
     <configuration name="pytest in administative_panel_login_edge.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="test_selenium_repository" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -212,9 +210,9 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.pytest in administative_panel_login_firefox_nightly.py" />
         <item itemvalue="Python tests.pytest in administative_panel_login_firefox_esr.py" />
         <item itemvalue="Python tests.pytest in administative_panel_login_firefox.py" />
-        <item itemvalue="Python tests.pytest in administative_panel_login_firefox_nightly.py" />
         <item itemvalue="Python tests.pytest in administative_panel_login_edge.py" />
         <item itemvalue="Python tests.pytest in administative_panel_login.py" />
       </list>
@@ -269,12 +267,12 @@
     <frame x="527" y="9" width="1249" height="1000" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24938068" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24938068" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49958712" visible="true" weight="0.3290993" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49958712" weight="0.3290993" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3995381" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -352,17 +350,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/administative_panel_login_firefox_nightly.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/administative_panel_login_firefox_esr.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="60" selection-start-line="10" selection-start-column="60" selection-end-line="10" selection-end-column="60" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/administative_panel_login_firefox_nightly.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" lean-forward="true" selection-end-line="21" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/administative_panel_login_firefox_nightly.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>
