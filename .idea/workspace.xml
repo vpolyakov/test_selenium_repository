@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2af341db-d22b-4ee6-bd3b-a4e0c025e7d9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/task 10 edge.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task 10 firefox.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/administative_panel_login_firefox.py" beforeDir="false" afterPath="$PROJECT_DIR$/administative_panel_login_firefox.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,24 +30,24 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="35" />
+          <entry key="py" value="45" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="35" />
+          <entry key="Python" value="45" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="6" />
-          <entry key="py" value="4145" />
+          <entry key="py" value="4186" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="6" />
-          <entry key="Python" value="4145" />
+          <entry key="Python" value="4186" />
         </counts>
       </usages-collector>
     </session>
@@ -52,12 +55,12 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/task 10.py">
+        <entry file="file://$PROJECT_DIR$/task 10 edge.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-425">
-              <caret line="38" selection-start-line="38" selection-end-line="38" />
+            <state relative-caret-position="442">
+              <caret line="56" selection-start-line="56" selection-end-line="56" />
               <folding>
-                <marker date="1538506579301" expanded="true" signature="121:126" ph="..." />
+                <element signature="e#0#30#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -85,7 +88,6 @@
         <option value="$PROJECT_DIR$/administative_panel_login.py" />
         <option value="$PROJECT_DIR$/administative_panel_login_edge.py" />
         <option value="$PROJECT_DIR$/administative_panel_login_f2.py" />
-        <option value="$PROJECT_DIR$/administative_panel_login_firefox.py" />
         <option value="$PROJECT_DIR$/administative_panel_login_firefox_esr.py" />
         <option value="$PROJECT_DIR$/administative_panel_login_firefox_nightly.py" />
         <option value="$PROJECT_DIR$/Задание 7.py" />
@@ -96,6 +98,9 @@
         <option value="$PROJECT_DIR$/task 8 ver.2.py" />
         <option value="$PROJECT_DIR$/task 8.py" />
         <option value="$PROJECT_DIR$/task 10.py" />
+        <option value="$PROJECT_DIR$/administative_panel_login_firefox.py" />
+        <option value="$PROJECT_DIR$/task 10 firefox.py" />
+        <option value="$PROJECT_DIR$/task 10 edge.py" />
       </list>
     </option>
   </component>
@@ -127,6 +132,11 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/administative_panel_login_edge.py" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Public\Documents\Python_Scripts\test_selenium_repository" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -139,8 +149,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.task 10">
-    <configuration name="task 10" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.task 10 edge">
+    <configuration name="task 10 edge" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="test_selenium_repository" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -152,7 +162,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task 10.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task 10 edge.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -161,7 +171,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="task 8 ver.2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="task 10 firefox" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="test_selenium_repository" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -173,7 +183,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task 8 ver.2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task 10 firefox.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -203,84 +213,66 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="task 9.1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="pytest in administative_panel_login_firefox_esr.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="test_selenium_repository" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task 9.1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/administative_panel_login_firefox_esr.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="task 9.2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="pytest in administative_panel_login_firefox_nightly.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="test_selenium_repository" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task 9.2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/administative_panel_login_firefox_nightly.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="task9" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="pytest in administative_panel_login_firefox.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="test_selenium_repository" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Public\Documents\Python_Scripts\test_selenium_repository\task 9.1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/administative_panel_login_firefox.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <list>
       <item itemvalue="Python.task 8" />
-      <item itemvalue="Python.task9" />
-      <item itemvalue="Python.task 9.2" />
-      <item itemvalue="Python.task 9.1" />
-      <item itemvalue="Python.task 8 ver.2" />
-      <item itemvalue="Python.task 10" />
+      <item itemvalue="Python.task 10 firefox" />
+      <item itemvalue="Python tests.pytest in administative_panel_login_firefox.py" />
+      <item itemvalue="Python tests.pytest in administative_panel_login_firefox_esr.py" />
+      <item itemvalue="Python tests.pytest in administative_panel_login_firefox_nightly.py" />
+      <item itemvalue="Python.task 10 edge" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.task 10" />
-        <item itemvalue="Python.task 8 ver.2" />
-        <item itemvalue="Python.task 9.2" />
-        <item itemvalue="Python.task 9.1" />
-        <item itemvalue="Python.task9" />
+        <item itemvalue="Python.task 10 edge" />
+        <item itemvalue="Python.task 10 firefox" />
+        <item itemvalue="Python tests.pytest in administative_panel_login_firefox.py" />
+        <item itemvalue="Python tests.pytest in administative_panel_login_firefox_nightly.py" />
+        <item itemvalue="Python tests.pytest in administative_panel_login_firefox_esr.py" />
       </list>
     </recent_temporary>
   </component>
@@ -298,18 +290,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="pytest_in_administative_panel_login_firefox_nightly_py - 2018.09.25 at 00h 22m 03s.xml">
-      <configuration name="pytest in administative_panel_login_firefox_nightly.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_in_administative_panel_login_firefox_py - 2018.09.25 at 00h 57m 01s.xml">
-      <configuration name="pytest in administative_panel_login_firefox.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_in_administative_panel_login_firefox_py - 2018.09.25 at 00h 57m 26s.xml">
-      <configuration name="pytest in administative_panel_login_firefox.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_in_administative_panel_login_firefox_py - 2018.09.25 at 00h 58m 22s.xml">
-      <configuration name="pytest in administative_panel_login_firefox.py" configurationId="tests" />
-    </history-entry>
     <history-entry file="pytest_in_administative_panel_login_firefox_py - 2018.09.25 at 00h 58m 56s.xml">
       <configuration name="pytest in administative_panel_login_firefox.py" configurationId="tests" />
     </history-entry>
@@ -328,6 +308,18 @@
     <history-entry file="pytest_in_administative_panel_login_firefox_nightly_py - 2018.09.29 at 13h 50m 23s.xml">
       <configuration name="pytest in administative_panel_login_firefox_nightly.py" configurationId="tests" />
     </history-entry>
+    <history-entry file="pytest_in_administative_panel_login_firefox_py - 2018.10.02 at 23h 36m 11s.xml">
+      <configuration name="pytest in administative_panel_login_firefox.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_administative_panel_login_firefox_esr_py - 2018.10.02 at 23h 37m 46s.xml">
+      <configuration name="pytest in administative_panel_login_firefox_esr.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_administative_panel_login_firefox_nightly_py - 2018.10.02 at 23h 41m 18s.xml">
+      <configuration name="pytest in administative_panel_login_firefox_nightly.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_administative_panel_login_firefox_py - 2018.10.02 at 23h 46m 16s.xml">
+      <configuration name="pytest in administative_panel_login_firefox.py" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -340,14 +332,15 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="674" y="0" width="1155" height="1033" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.217547" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2775291" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49958712" visible="true" weight="0.34927696" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.5130152" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.42936596" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.329718" />
@@ -365,6 +358,36 @@
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>regular_price.value_of_css_property(&quot;font-size&quot;)[:-2]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>campaign_price.value_of_css_property(&quot;font-size&quot;)[:-2]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>campaign_price.value_of_css_property(&quot;font-size&quot;)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>regular_price.value_of_css_property(&quot;color&quot;)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>regular_price.value_of_css_property(&quot;color&quot;)[4:-1].split(&quot;, &quot;)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>regular_price.value_of_css_property(&quot;color&quot;)[4:-1]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>len(sticker)</expression-string>
         <language-id>Python</language-id>
@@ -402,28 +425,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/administative_panel_login_f.py" />
-    <entry file="file://$PROJECT_DIR$/administative_panel_login_firefox.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="2" lean-forward="true" selection-start-column="2" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/administative_panel_login_firefox_esr.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="60" selection-start-line="10" selection-start-column="60" selection-end-line="10" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Desktop/administative_panel_login_firefox_nightly.py" />
-    <entry file="file://$PROJECT_DIR$/administative_panel_login_firefox_nightly.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Задание 7.py" />
     <entry file="file://$PROJECT_DIR$/Задание 7..ipynb" />
     <entry file="file://$PROJECT_DIR$/Task 7.py">
@@ -449,19 +451,70 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/task 8 ver.2.py" />
-    <entry file="file://$PROJECT_DIR$/task 8.py">
+    <entry file="file://$PROJECT_DIR$/administative_panel_login_firefox_esr.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="9" column="95" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/administative_panel_login_firefox_nightly.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/administative_panel_login_firefox.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="77" lean-forward="true" selection-start-line="9" selection-start-column="77" selection-end-line="9" selection-end-column="77" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task 10 firefox.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="96" column="74" selection-start-line="96" selection-start-column="74" selection-end-line="96" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/remote/errorhandler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1029">
+          <caret line="207" selection-start-line="207" selection-end-line="207" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/task 10.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-425">
-          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        <state relative-caret-position="735">
+          <caret line="118" lean-forward="true" selection-start-line="118" selection-end-line="118" />
           <folding>
             <marker date="1538506579301" expanded="true" signature="121:126" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task 8.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="93" lean-forward="true" selection-start-line="9" selection-end-line="9" selection-end-column="93" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task 10 edge.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="56" selection-start-line="56" selection-end-line="56" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
           </folding>
         </state>
       </provider>

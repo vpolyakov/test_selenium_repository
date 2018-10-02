@@ -7,7 +7,7 @@ from selenium.webdriver.common.by import By
 
 @pytest.fixture
 def driver(request):
-    wd = webdriver.Firefox()
+    wd = webdriver.Firefox(firefox_binary="C:\\Program Files\\Mozilla Firefox\\firefox.exe")
     request.addfinalizer(wd.quit)
     return wd
 
