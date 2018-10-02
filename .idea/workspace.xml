@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2af341db-d22b-4ee6-bd3b-a4e0c025e7d9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/task 10 edge.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task 10 firefox.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task 10 ie.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/administative_panel_login_firefox.py" beforeDir="false" afterPath="$PROJECT_DIR$/administative_panel_login_firefox.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,38 +28,47 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="45" />
+          <entry key="py" value="46" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="45" />
+          <entry key="Python" value="46" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="6" />
-          <entry key="py" value="4186" />
+          <entry key="py" value="4193" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="6" />
-          <entry key="Python" value="4186" />
+          <entry key="Python" value="4193" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/task 10 edge.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
+            <state relative-caret-position="302">
               <caret line="56" selection-start-line="56" selection-end-line="56" />
               <folding>
                 <element signature="e#0#30#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/task 10 ie.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="344">
+              <caret line="100" column="74" selection-start-line="100" selection-start-column="74" selection-end-line="100" selection-end-column="74" />
             </state>
           </provider>
         </entry>
@@ -101,10 +108,11 @@
         <option value="$PROJECT_DIR$/administative_panel_login_firefox.py" />
         <option value="$PROJECT_DIR$/task 10 firefox.py" />
         <option value="$PROJECT_DIR$/task 10 edge.py" />
+        <option value="$PROJECT_DIR$/task 10 ie.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="674" />
     <option name="width" value="1155" />
     <option name="height" value="1033" />
@@ -149,7 +157,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.task 10 edge">
+  <component name="RunManager" selected="Python.task 10 ie">
     <configuration name="task 10 edge" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="test_selenium_repository" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -192,6 +200,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="task 10 ie" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="test_selenium_repository" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task 10 ie.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="task 8" type="PythonConfigurationType" factoryName="Python">
       <module name="test_selenium_repository" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -211,21 +240,6 @@
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="pytest in administative_panel_login_firefox_esr.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <module name="test_selenium_repository" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/administative_panel_login_firefox_esr.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <configuration name="pytest in administative_panel_login_firefox_nightly.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
@@ -262,17 +276,17 @@
       <item itemvalue="Python.task 8" />
       <item itemvalue="Python.task 10 firefox" />
       <item itemvalue="Python tests.pytest in administative_panel_login_firefox.py" />
-      <item itemvalue="Python tests.pytest in administative_panel_login_firefox_esr.py" />
       <item itemvalue="Python tests.pytest in administative_panel_login_firefox_nightly.py" />
       <item itemvalue="Python.task 10 edge" />
+      <item itemvalue="Python.task 10 ie" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.task 10 ie" />
         <item itemvalue="Python.task 10 edge" />
         <item itemvalue="Python.task 10 firefox" />
         <item itemvalue="Python tests.pytest in administative_panel_login_firefox.py" />
         <item itemvalue="Python tests.pytest in administative_panel_login_firefox_nightly.py" />
-        <item itemvalue="Python tests.pytest in administative_panel_login_firefox_esr.py" />
       </list>
     </recent_temporary>
   </component>
@@ -356,8 +370,24 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/task 10 ie.py</url>
+          <line>56</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>campaign_price.value_of_css_property(&quot;color&quot;)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>regular_price.value_of_css_property(&quot;font-size&quot;)[:-2]</expression-string>
         <language-id>Python</language-id>
@@ -511,11 +541,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/task 10 edge.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
+        <state relative-caret-position="302">
           <caret line="56" selection-start-line="56" selection-end-line="56" />
           <folding>
             <element signature="e#0#30#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task 10 ie.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="100" column="74" selection-start-line="100" selection-start-column="74" selection-end-line="100" selection-end-column="74" />
         </state>
       </provider>
     </entry>
