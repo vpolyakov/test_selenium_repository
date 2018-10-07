@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2af341db-d22b-4ee6-bd3b-a4e0c025e7d9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/task 11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task 12.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/register form.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/register form.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_name_generator.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/test_name_generator.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,24 +32,24 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="51" />
+          <entry key="py" value="53" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="51" />
+          <entry key="Python" value="53" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="6" />
-          <entry key="py" value="5246" />
+          <entry key="dummy" value="7" />
+          <entry key="py" value="6362" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="6" />
-          <entry key="Python" value="5246" />
+          <entry key="PLAIN_TEXT" value="7" />
+          <entry key="Python" value="6362" />
         </counts>
       </usages-collector>
     </session>
@@ -55,10 +57,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/task 11.py">
+        <entry file="file://$PROJECT_DIR$/task 12.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="935">
-              <caret line="55" column="49" selection-start-line="55" selection-start-column="49" selection-end-line="55" selection-end-column="49" />
+            <state relative-caret-position="561">
+              <caret line="33" column="32" selection-start-line="33" selection-start-column="32" selection-end-line="33" selection-end-column="32" />
               <folding>
                 <element signature="e#0#30#0" expanded="true" />
               </folding>
@@ -103,12 +105,14 @@
         <option value="$PROJECT_DIR$/task 10 edge.py" />
         <option value="$PROJECT_DIR$/task 10 ie.py" />
         <option value="$PROJECT_DIR$/task 11.py" />
+        <option value="$PROJECT_DIR$/tasl 12.py" />
+        <option value="$PROJECT_DIR$/task 12.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="743" />
-    <option name="y" value="7" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="651" />
+    <option name="y" value="3" />
     <option name="width" value="1155" />
     <option name="height" value="1033" />
   </component>
@@ -152,7 +156,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.task 11">
+  <component name="RunManager" selected="Python.task 12">
     <configuration name="task 10 edge" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="test_selenium_repository" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -237,6 +241,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="task 12" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="test_selenium_repository" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task 12.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="task 8" type="PythonConfigurationType" factoryName="Python">
       <module name="test_selenium_repository" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -258,36 +283,21 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest in administative_panel_login_firefox.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <module name="test_selenium_repository" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/administative_panel_login_firefox.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
     <list>
       <item itemvalue="Python.task 8" />
       <item itemvalue="Python.task 10 firefox" />
-      <item itemvalue="Python tests.pytest in administative_panel_login_firefox.py" />
       <item itemvalue="Python.task 10 edge" />
       <item itemvalue="Python.task 10 ie" />
       <item itemvalue="Python.task 11" />
+      <item itemvalue="Python.task 12" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.task 12" />
         <item itemvalue="Python.task 11" />
         <item itemvalue="Python.task 10 ie" />
         <item itemvalue="Python.task 10 edge" />
         <item itemvalue="Python.task 10 firefox" />
-        <item itemvalue="Python tests.pytest in administative_panel_login_firefox.py" />
       </list>
     </recent_temporary>
   </component>
@@ -346,7 +356,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="743" y="7" width="1155" height="1033" extended-state="0" />
+    <frame x="651" y="3" width="1155" height="1033" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2775291" />
@@ -425,13 +435,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/administative_panel_login.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>
@@ -537,10 +540,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/administative_panel_login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="13" lean-forward="true" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/task 11.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="935">
-          <caret line="55" column="49" selection-start-line="55" selection-start-column="49" selection-end-line="55" selection-end-column="49" />
+        <state relative-caret-position="391">
+          <caret line="29" column="93" lean-forward="true" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="93" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task 12.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" column="32" selection-start-line="33" selection-start-column="32" selection-end-line="33" selection-end-column="32" />
           <folding>
             <element signature="e#0#30#0" expanded="true" />
           </folding>
