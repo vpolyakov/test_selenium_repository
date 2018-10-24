@@ -2,8 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2af341db-d22b-4ee6-bd3b-a4e0c025e7d9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/task 17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/application.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/cart_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/main_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/product_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task 18.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task 19.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_task_19.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/administative_panel_login.py" beforeDir="false" afterPath="$PROJECT_DIR$/administative_panel_login.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task 17.py" beforeDir="false" afterPath="$PROJECT_DIR$/task 17.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,13 +25,14 @@
     <session id="-1228526633">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="24" />
+          <entry key="project.closed" value="29" />
+          <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.15" value="3" />
-          <entry key="project.open.time.16" value="4" />
+          <entry key="project.open.time.16" value="5" />
           <entry key="project.open.time.17" value="2" />
           <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.19" value="2" />
-          <entry key="project.open.time.20" value="3" />
+          <entry key="project.open.time.20" value="4" />
           <entry key="project.open.time.21" value="4" />
           <entry key="project.open.time.22" value="1" />
           <entry key="project.open.time.24" value="1" />
@@ -30,43 +41,93 @@
           <entry key="project.open.time.28" value="1" />
           <entry key="project.open.time.29" value="1" />
           <entry key="project.open.time.31" value="1" />
+          <entry key="project.open.time.33" value="1" />
+          <entry key="project.open.time.36" value="1" />
           <entry key="project.open.time.38" value="1" />
-          <entry key="project.opened" value="27" />
+          <entry key="project.opened" value="32" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="88" />
+          <entry key="py" value="110" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="88" />
+          <entry key="Python" value="110" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="7" />
-          <entry key="py" value="9803" />
+          <entry key="dummy" value="20" />
+          <entry key="py" value="10578" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="7" />
-          <entry key="Python" value="9803" />
+          <entry key="PLAIN_TEXT" value="20" />
+          <entry key="Python" value="10578" />
         </counts>
       </usages-collector>
     </session>
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="test_selenium_repository" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/task 17.py">
+        <entry file="file://$PROJECT_DIR$/test_task_19.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="501">
-              <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+            <state relative-caret-position="187">
+              <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/application.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="629">
+              <caret line="37" selection-start-line="37" selection-end-line="37" />
               <folding>
                 <element signature="e#0#30#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/main_page.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/product_page.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
+              <folding>
+                <element signature="e#1#58#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/cart_page.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="28" selection-start-line="28" selection-end-line="28" />
+              <folding>
+                <element signature="e#1#58#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -91,7 +152,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/administative_panel_login.py" />
         <option value="$PROJECT_DIR$/administative_panel_login_edge.py" />
         <option value="$PROJECT_DIR$/administative_panel_login_f2.py" />
         <option value="$PROJECT_DIR$/administative_panel_login_firefox_esr.py" />
@@ -118,20 +178,32 @@
         <option value="$PROJECT_DIR$/test 15.1.py" />
         <option value="$PROJECT_DIR$/insta_test_removing_followers.py" />
         <option value="$PROJECT_DIR$/task 17.py" />
+        <option value="$PROJECT_DIR$/task 18.py" />
+        <option value="$PROJECT_DIR$/task19/pages/main_page.py" />
+        <option value="$PROJECT_DIR$/task19/pages/cart.py" />
+        <option value="$PROJECT_DIR$/task19/pages/product_page.py" />
+        <option value="$PROJECT_DIR$/task19/app/application.py" />
+        <option value="$PROJECT_DIR$/administative_panel_login.py" />
+        <option value="$PROJECT_DIR$/app/application.py" />
+        <option value="$PROJECT_DIR$/pages/main_page.py" />
+        <option value="$PROJECT_DIR$/pages/product_page.py" />
+        <option value="$PROJECT_DIR$/pages/cart_page.py" />
+        <option value="$PROJECT_DIR$/task 19 test.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="443" />
-    <option name="y" value="17" />
-    <option name="width" value="1045" />
-    <option name="height" value="983" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="628" />
+    <option name="y" value="3" />
+    <option name="width" value="1148" />
+    <option name="height" value="939" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -143,12 +215,11 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$/administative_panel_login_edge.py" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="project.propDebugger" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -167,70 +238,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.task 17">
-    <configuration name="insta_test_removing_followers" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="test_selenium_repository" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/insta_test_removing_followers.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="task 14" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="test_selenium_repository" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task 14.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="task 15" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="test_selenium_repository" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task 15.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python tests.pytest in test_task_19.py">
     <configuration name="task 17" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="test_selenium_repository" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -244,6 +252,48 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task 17.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="task 18" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="test_selenium_repository" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task 18.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="task 19 test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="test_selenium_repository" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\Public\Documents\Python_Scripts\test_selenium_repository\test_task_19.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -273,42 +323,51 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test 15.1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="pytest in administative_panel_login.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="test_selenium_repository" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Public\Documents\Python_Scripts\test_selenium_repository\test 15.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/administative_panel_login.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_task_19.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="test_selenium_repository" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_task_19.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <list>
       <item itemvalue="Python.task 8" />
-      <item itemvalue="Python.task 14" />
-      <item itemvalue="Python.task 15" />
-      <item itemvalue="Python.test 15.1" />
-      <item itemvalue="Python.insta_test_removing_followers" />
       <item itemvalue="Python.task 17" />
+      <item itemvalue="Python.task 18" />
+      <item itemvalue="Python.task 19 test" />
+      <item itemvalue="Python tests.pytest in administative_panel_login.py" />
+      <item itemvalue="Python tests.pytest in test_task_19.py" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.pytest in test_task_19.py" />
+        <item itemvalue="Python.task 19 test" />
+        <item itemvalue="Python tests.pytest in administative_panel_login.py" />
+        <item itemvalue="Python.task 18" />
         <item itemvalue="Python.task 17" />
-        <item itemvalue="Python.insta_test_removing_followers" />
-        <item itemvalue="Python.test 15.1" />
-        <item itemvalue="Python.task 15" />
-        <item itemvalue="Python.task 14" />
       </list>
     </recent_temporary>
   </component>
@@ -326,21 +385,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="pytest_in_administative_panel_login_firefox_py - 2018.09.25 at 00h 58m 56s.xml">
-      <configuration name="pytest in administative_panel_login_firefox.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_in_administative_panel_login_firefox_py - 2018.09.25 at 01h 05m 23s.xml">
-      <configuration name="pytest in administative_panel_login_firefox.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_in_administative_panel_login_firefox_esr_py - 2018.09.25 at 01h 07m 59s.xml">
-      <configuration name="pytest in administative_panel_login_firefox_esr.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_in_administative_panel_login_firefox_esr_py - 2018.09.25 at 01h 09m 12s.xml">
-      <configuration name="pytest in administative_panel_login_firefox_esr.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_in_administative_panel_login_firefox_nightly_py - 2018.09.25 at 01h 13m 44s.xml">
-      <configuration name="pytest in administative_panel_login_firefox_nightly.py" configurationId="tests" />
-    </history-entry>
     <history-entry file="pytest_in_administative_panel_login_firefox_nightly_py - 2018.09.29 at 13h 50m 23s.xml">
       <configuration name="pytest in administative_panel_login_firefox_nightly.py" configurationId="tests" />
     </history-entry>
@@ -356,6 +400,21 @@
     <history-entry file="pytest_in_administative_panel_login_firefox_py - 2018.10.02 at 23h 46m 16s.xml">
       <configuration name="pytest in administative_panel_login_firefox.py" configurationId="tests" />
     </history-entry>
+    <history-entry file="pytest_in_administative_panel_login_py - 2018.10.24 at 03h 42m 13s.xml">
+      <configuration name="pytest in administative_panel_login.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_administative_panel_login_py - 2018.10.24 at 03h 49m 41s.xml">
+      <configuration name="pytest in administative_panel_login.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_administative_panel_login_py - 2018.10.24 at 03h 54m 53s.xml">
+      <configuration name="pytest in administative_panel_login.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_task_19_py - 2018.10.24 at 04h 03m 01s.xml">
+      <configuration name="pytest in test_task_19.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_task_19_py - 2018.10.24 at 04h 03m 53s.xml">
+      <configuration name="pytest in test_task_19.py" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -367,27 +426,46 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="443" y="17" width="1045" height="983" extended-state="0" />
+    <frame x="542" y="80" width="1148" height="939" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26713008" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49941108" visible="true" weight="0.18108109" />
+      <window_info id="Structure" order="1" sideWeight="0.50058895" side_tool="true" weight="0.26713008" />
+      <window_info id="Favorites" order="2" sideWeight="0.50058895" side_tool="true" weight="0.26713008" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49958712" visible="true" weight="0.2932862" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49851042" visible="true" weight="0.29192546" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4981982" weight="0.44968945" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3287037" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3287037" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5018018" side_tool="true" weight="0.44968945" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.5036765" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49941108" visible="true" weight="0.18108109" />
+      <window_info id="Structure" order="1" sideWeight="0.50058895" side_tool="true" weight="0.26713008" />
+      <window_info id="Favorites" order="2" sideWeight="0.50058895" side_tool="true" weight="0.26713008" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49851042" weight="0.29210836" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.45036766" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3287037" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.3287037" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5004129" side_tool="true" weight="0.3290993" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5014896" side_tool="true" weight="0.29210836" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.5036765" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
+    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -548,13 +626,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/task 13.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="34" column="74" selection-start-line="34" selection-start-column="4" selection-end-line="34" selection-end-column="74" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/task 15.py" />
     <entry file="file://$PROJECT_DIR$/test 15.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -563,33 +634,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/insta_test_removing_followers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" selection-start-line="17" selection-end-line="17" selection-end-column="38" />
-          <folding>
-            <element signature="e#0#30#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/administative_panel_login.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/insta_test_removing_followers.py" />
     <entry file="file://$PROJECT_DIR$/task 8.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="93" lean-forward="true" selection-start-line="9" selection-end-line="9" selection-end-column="93" />
-          <folding>
-            <element signature="e#0#30#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -625,18 +674,115 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="11" column="44" lean-forward="true" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task 17.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task 18.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task 13.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="34" column="74" selection-start-line="34" selection-start-column="4" selection-end-line="34" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../selenium-training-po/python-example/tests/data_providers.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../selenium-training-po/python-example/tests/test_customer_registration.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task19/pages/main_page.py" />
+    <entry file="file://$PROJECT_DIR$/task19/pages/cart_page.py" />
+    <entry file="file://$PROJECT_DIR$/task19/pages/product_page.py" />
+    <entry file="file://$PROJECT_DIR$/task19/app/application.py" />
+    <entry file="file://$PROJECT_DIR$/pages/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../selenium-training-po/python-example/app/application.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
           <folding>
             <element signature="e#0#30#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/task 17.py">
+    <entry file="file://$PROJECT_DIR$/pages/product_page.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="501">
-          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+        <state relative-caret-position="374">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="e#1#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/cart_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <element signature="e#1#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/main_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/application.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
           <folding>
             <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/administative_panel_login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task 19.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="33" column="9" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_task_19.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
           </folding>
         </state>
       </provider>
